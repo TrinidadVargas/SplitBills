@@ -1,3 +1,7 @@
+# NextJs Demo App
+
+Split your bills easily and calculate the tip and tax of your purchase
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
